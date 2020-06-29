@@ -89,3 +89,7 @@ p {
 h1, h3 {
     color: hotpink;
 }
+
+#details {
+    margin-top: 20px;
+}
