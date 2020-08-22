@@ -8,6 +8,7 @@ html {
     scroll-behavior: smooth;
 }
 
+
 body {
     color: #ffffff;
     background-color: black;
@@ -15,11 +16,11 @@ body {
 }
 
 .container {
-    width: 1140px;
+    width: 90vw;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 100px;;
-    padding-right: 500px;
+    margin-bottom: 100px;
+    
 }
 
 .header {
